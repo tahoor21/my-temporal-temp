@@ -6,7 +6,6 @@ A chart showing my temporal temperature after receiving Covishield dose 1 vaccin
 # code
 ```
 library(ggplot2)
-library(ggthemes)
 
 data <- read.csv(file.choose())
 
